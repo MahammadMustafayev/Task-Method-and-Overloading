@@ -1,0 +1,13 @@
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\bin\Debug\netcoreapp3.1\Task Method(2).exe
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\bin\Debug\netcoreapp3.1\Task Method(2).deps.json
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\bin\Debug\netcoreapp3.1\Task Method(2).runtimeconfig.json
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\bin\Debug\netcoreapp3.1\Task Method(2).runtimeconfig.dev.json
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\bin\Debug\netcoreapp3.1\Task Method(2).dll
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\bin\Debug\netcoreapp3.1\Task Method(2).pdb
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\obj\Debug\netcoreapp3.1\Task Method(2).csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\obj\Debug\netcoreapp3.1\Task Method(2).AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\obj\Debug\netcoreapp3.1\Task Method(2).AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\obj\Debug\netcoreapp3.1\Task Method(2).csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\obj\Debug\netcoreapp3.1\Task Method(2).dll
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\obj\Debug\netcoreapp3.1\Task Method(2).pdb
+C:\Users\admin\OneDrive\İş masası\Task Method and Overloading\Task Method(2)\Task Method(2)\obj\Debug\netcoreapp3.1\Task Method(2).genruntimeconfig.cache

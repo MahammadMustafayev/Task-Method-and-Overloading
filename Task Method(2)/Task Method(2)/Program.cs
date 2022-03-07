@@ -7,7 +7,7 @@ namespace Task_Method_2_
         static void Main(string[] args)
         {
             Console.WriteLine("Reqem daxil edin:");
-            int numbers = Convert.ToInt32(Console.ReadLine());  
+            int numbers = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Bu rəqəmdə ədəd sayı:");
             Console.WriteLine(NumLength(numbers));
             
@@ -19,14 +19,19 @@ namespace Task_Method_2_
 
         static int NumLength(int numbers)
         {
-
-            int count = 0;         
-            while (numbers > 0)
-            {
-                numbers /= 10;
-                count++;
-            }
-            return count;
+            
+            
+                int count = 0;
+                while (numbers > 0)
+                {
+                    numbers /= 10;
+                    count++;
+                    
+                }
+                return count;
+            
+            
+            
         }
     }
 }
